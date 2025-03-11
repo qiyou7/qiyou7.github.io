@@ -6,3 +6,8 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 position: 3
 ---
+
+### **January 2025**
+**The 1st Workshop on Intelligent Computational Spectroscopy of Complex Interfaces**  
+📍 *Xiamen, China*  
+**Oral Presentation** [link](https://www.bilibili.com/video/BV1VYwhezEEq/?spm_id_from=333.337.search-card.all.click&vd_source=904a7ceade5b681f595f7c87b6a276fb)
