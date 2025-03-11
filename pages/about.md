@@ -7,10 +7,18 @@ tags: [Page]
 position: 1
 ---
 
-Qi You
-Ph.D. candidate at the College of Chemistry and Chemical Engineering, Xiamen University.
+## 👨‍🎓 About Me  
 
-Head over to the [theme's documentation](https://github.com/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+I am **Qi You**, a *Ph.D. candidate* at the **College of Chemistry and Chemical Engineering, Xiamen University**, under the supervision of [Prof. Jun Cheng](#) and [Prof. Fujie Tang](#).  
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+My research focuses on **computational spectroscopy** for complex electrochemical systems, particularly on *dynamic Nuclear Magnetic Resonance (NMR) spectra in electrolytes*.  
+
+By integrating **first-principles** and **machine learning methods**, we aim to explore the intrinsic correlations between *molecular structures* and *spectral features*.  
+
+---
+
+### 🔗 Related Links
+
+- **Cheng Group**: [Check it out](https://www.cheng-group.net/)
+- **Tang Group**: [Check it out](https://fujiepku.github.io/)
+---
