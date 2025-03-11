@@ -1,12 +1,13 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Qi You
+Ph.D. candidate at the College of Chemistry and Chemical Engineering, Xiamen University.
 
 Head over to the [theme's documentation](https://github.com/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
 
