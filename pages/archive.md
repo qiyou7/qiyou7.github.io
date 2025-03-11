@@ -1,9 +1,9 @@
 ---
-layout: archive
-title: "Blog Archive"
+layout: page
+title: "Publication"
 permalink: /archive/
 hide: true
 excluded: true
 icon: "fa-archive"
-position: 6
+position: 2
 ---
