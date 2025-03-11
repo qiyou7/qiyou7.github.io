@@ -14,3 +14,10 @@ position: 3
 🔗 [More details](https://www.bilibili.com/video/BV1VYwhezEEq/?spm_id_from=333.337.search-card.all.click&vd_source=904a7ceade5b681f595f7c87b6a276fb)
 
 ---
+
+### **October 2024**
+**The 11th Congress of International Society of Theoretical Chemical Physics (ISTCP-2024)**  
+📍 *Qingdao, China*  
+**Poster Presentation** 
+
+---
