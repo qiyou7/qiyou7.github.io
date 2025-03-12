@@ -17,7 +17,7 @@ I am **Qi You**, a *Ph.D. candidate* at the **College of Chemistry and Chemical 
 
 ### 🔗 Related Links
 
-- **Cheng Group**: [Visit Cheng Group](https://www.cheng-group.net/)
+- **Cheng Group**: [Visit Cheng Group](https://www.cheng-group.net/en)
 - **Tang Group**: [Visit Tang Group](https://fujiepku.github.io/)
 
 ---
