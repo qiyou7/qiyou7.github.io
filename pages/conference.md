@@ -15,6 +15,13 @@ position: 3
 
 ---
 
+### **November 2024**
+**The 32nd Chinese Chemical Society (CCS) congress**  
+📍 *Hainan, China*  
+**Poster Presentation** 
+
+---
+
 ### **October 2024**
 **The 11th Congress of International Society of Theoretical Chemical Physics (ISTCP-2024)**  
 📍 *Qingdao, China*  
