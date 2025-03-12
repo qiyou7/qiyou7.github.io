@@ -28,3 +28,10 @@ position: 3
 **Poster Presentation** 
 
 ---
+
+### **June 2024**
+**The 34th Chinese Chemical Society (CCS) Congress** 
+📍 *Guangzhou, China*  
+**Poster Presentation** 
+
+---
