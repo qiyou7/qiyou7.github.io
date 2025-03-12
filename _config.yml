@@ -6,7 +6,7 @@ url: "https://qiyou7.github.io/"
 title: Qi You                    # site's title
 description: "Website of the Qi You at Xiamen Univerisity"     # used by search engines
 avatar:  assets/img/electronic.png                      #  Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+favicon: assets/img/electronic.ico                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: "Welcome to Qi You's Homepage!"
