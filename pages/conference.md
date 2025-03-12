@@ -16,7 +16,7 @@ position: 3
 ---
 
 ### **November 2024**
-**The 32nd Chinese Chemical Society (CCS) congress**  
+**The 22nd National Electrochemical Congress**  
 📍 *Hainan, China*  
 **Poster Presentation** 
 
