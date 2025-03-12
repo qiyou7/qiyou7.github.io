@@ -5,7 +5,7 @@ url: "https://qiyou7.github.io/"
 # THEME-SPECIFIC CONFIGURATION
 title: Qi You                    # site's title
 description: "Website of the Qi You at Xiamen Univerisity"     # used by search engines
-avatar:  assets/img/molecule.png                      #  Empty for no avatar in navbar
+avatar:  assets/img/electronic.png                      #  Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
