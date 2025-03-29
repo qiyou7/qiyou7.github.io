@@ -8,30 +8,30 @@ position: 3
 ---
 
 ---
-###  <span style="float: right;font-size: 20px; font-weight: bold; color: gray;">**January 2025**</span>  
+###  <span style="float: right;font-size: 25px; font-weight: bold; color: gray;">**January 2025**</span>  
 **The 1st Workshop on Intelligent Computational Spectroscopy of Complex Interfaces** 
-📍 *Xiamen, China*  
+<div>📍 *Xiamen, China*</div> 
 **[Oral Presentation](https://www.bilibili.com/video/BV1VYwhezEEq/?spm_id_from=333.337.search-card.all.click&vd_source=904a7ceade5b681f595f7c87b6a276fb)** 
 
 ---
 
 ###  <span style="float: right;">**November 2024**</span>   
 **The 22nd National Electrochemical Congress**
-📍 *Hainan, China*  
+<div>📍 *Hainan, China*</div>
 **Poster Presentation** 
 
 ---
 
 ###  <span style="float: right;">**October 2024**</span>  
 **The 11th Congress of International Society of Theoretical Chemical Physics (ISTCP-2024)**
-📍 *Qingdao, China*  
+<div>📍 *Qingdao, China*</div> 
 **Poster Presentation** 
 
 ---
 
 ###  <span style="float: right;">**June 2024**</span>   
 **The 34th Chinese Chemical Society (CCS) Congress** 
-📍 *Guangzhou, China*  
+<div>📍 *Guangzhou, China*</div> 
 **Poster Presentation** 
 
 ---
