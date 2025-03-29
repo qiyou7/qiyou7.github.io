@@ -8,7 +8,7 @@ position: 3
 ---
 
 ---
-###  <span style="float: right;">**January 2025**</span>  
+###  <span style="float: right;font-size: 14px; font-weight: bold; color: gray;">**January 2025**</span>  
 **The 1st Workshop on Intelligent Computational Spectroscopy of Complex Interfaces** 
 
 📍 *Xiamen, China*  
