@@ -6,8 +6,8 @@ feature-img: "assets/img/header/publication.jpg"
 tags: [Page]
 position: 3
 ---
-**The 1st Workshop on Intelligent Computational Spectroscopy of Complex Interfaces**  
-<div style="float: right;">**January 2025**</div>  
+**The 1st Workshop on Intelligent Computational Spectroscopy of Complex Interfaces**  <span style="float: right;">**January 2025**</span>  
+📍 *Xiamen, China*  
 <!-- ### **January 2025**
 **The 1st Workshop on Intelligent Computational Spectroscopy of Complex Interfaces**   -->
 📍 *Xiamen, China*  
