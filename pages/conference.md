@@ -8,6 +8,7 @@ position: 3
 ---
 
 ---
+
 ###  <span style="float: right;font-size: 25px; font-weight: bold; color: gray;">**January 2025**</span>  
 **The 1st Workshop on Intelligent Computational Spectroscopy of Complex Interfaces** 
 <div>📍 Xiamen, China</div> 
@@ -15,23 +16,23 @@ position: 3
 
 ---
 
-###  <span style="float: right;">**November 2024**</span>   
+###  <span style="float: right;font-size: 25px; font-weight: bold; color: gray;">**November 2024**</span>   
 **The 22nd National Electrochemical Congress**
-<div>📍 *Hainan, China*</div>
+<div>📍 Hainan, China</div>
 **Poster Presentation** 
 
 ---
 
-###  <span style="float: right;">**October 2024**</span>  
+###  <span style="float: right;font-size: 25px; font-weight: bold; color: gray;">**October 2024**</span>  
 **The 11th Congress of International Society of Theoretical Chemical Physics (ISTCP-2024)**
-<div>📍 *Qingdao, China*</div> 
+<div>📍 Qingdao, China</div> 
 **Poster Presentation** 
 
 ---
 
-###  <span style="float: right;">**June 2024**</span>   
+###  <span style="float: right;font-size: 25px; font-weight: bold; color: gray;">**June 2024**</span>   
 **The 34th Chinese Chemical Society (CCS) Congress** 
-<div>📍 *Guangzhou, China*</div> 
+<div>📍 Guangzhou, China</div> 
 **Poster Presentation** 
 
 ---
