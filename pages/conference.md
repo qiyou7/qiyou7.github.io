@@ -14,6 +14,7 @@ position: 3
 **The 74th Annual Meeting of the International Society of Electrochemistry (ISE)** 
 <div>📍 Mainz, Germany</div> 
 **[Poster Award]** 
+
 ---
 
 ###  <span style="float: right;font-size: 25px; font-weight: bold; color: gray;">**January 2025**</span>  
