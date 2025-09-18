@@ -13,7 +13,7 @@ position: 3
 ###  <span style="float: right;font-size: 25px; font-weight: bold; color: gray;">**September 2025**</span>  
 **The 76th Annual Meeting of the International Society of Electrochemistry (ISE)** 
 <div>📍 Mainz, Germany</div> 
-**[Poster Award]** 
+**Poster Award** 
 
 ---
 
