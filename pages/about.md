@@ -12,36 +12,36 @@ position: 1
   <div style="flex: 1;">
      <!-- photo -->
     <div style="width: 200px; height: 200px; margin: 0 auto; border-radius: 50%; overflow: hidden; box-shadow: 0 0 10px #ccc;">
-      <img src="/assets/img/1.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+      <img src="/assets/img/1.jpg">
     </div>
 
     
-    <div style="margin-top: 20px; text-align: right;">
+    <div style="margin-top: 20px; text-align: left;">
       
       <!-- Email -->
-      <p style="margin: 8px 0;">
-        <a href="mailto:qiyou@stu.xmu.edu.cn" style="text-decoration: none; color: #333;">
+      <p style="margin: 10px 0;">
+        <a href="mailto:qiyou@stu.xmu.edu.cn" style="text-decoration: none; color: #333; font-size: 10px;">
           <i class="fas fa-envelope"></i> Email
         </a>
       </p>
       
       <!-- ResearchGate -->
-      <p style="margin: 8px 0;">
-        <a href="https://www.researchgate.net/profile/Qi-You-6" style="text-decoration: none; color: #333;" target="_blank">
+      <p style="margin: 10px 0;">
+        <a href="https://www.researchgate.net/profile/Qi-You-6" style="text-decoration: none; color: #333; font-size: 10px;" target="_blank">
           <i class="fab fa-researchgate"></i> ResearchGate
         </a>
       </p>
       
       <!-- Google Scholar -->
-      <p style="margin: 8px 0;">
-        <a href="https://scholar.google.com/citations?user=meHBeXUAAAAJ&hl=en" style="text-decoration: none; color: #333;" target="_blank">
+      <p style="margin: 10px 0;">
+        <a href="https://scholar.google.com/citations?user=meHBeXUAAAAJ&hl=en" style="text-decoration: none; color: #333; font-size: 10px;" target="_blank">
           <i class="fab fa-google"></i> Google Scholar
         </a>
       </p>
       
       <!-- ORCID -->
-      <p style="margin: 8px 0;">
-        <a href="https://orcid.org/0009-0009-0425-5661" style="text-decoration: none; color: #333;" target="_blank">
+      <p style="margin: 10px 0;">
+        <a href="https://orcid.org/0009-0009-0425-5661" style="text-decoration: none; color: #333; font-size: 10px;" target="_blank">
           <i class="fab fa-orcid"></i> ORCID
         </a>
       </p>
