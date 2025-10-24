@@ -12,12 +12,13 @@ position: 1
   <div style="flex: 1;">
      <!-- photo -->
     <div style="width: 200px; height: 200px; margin: 0 auto; border-radius: 50%; overflow: hidden; box-shadow: 0 0 10px #ccc;">
-      <img src="/assets/img/1.jpg, style="object-fit: cover;">
+      <img src="/assets/img/1.jpg style="object-fit: cover;">
     </div>
 
     
-    <div style="margin-top: 20px; text-align: left;">
-      
+
+    <div style="margin-top: 20px; text-align: left; padding-left: 20px;">
+    
       <!-- Email -->
       <p style="margin: 10px 0;">
         <a href="mailto:qiyou@stu.xmu.edu.cn" style="text-decoration: none; color: #333; font-size: 14px;">
