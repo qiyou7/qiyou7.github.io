@@ -7,11 +7,8 @@ tags: [Page]
 position: 1
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-
-<div style="flex: 0 0 220px; text-align: center; margin-right: 30px;">
-  <img src="/assets/img/1.jpg" style="width: 220px; border-radius: 15px; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
-</div>
+<img src="/assets/img/1.jpg"
+     style="width:220px; height:220px; border-radius:50%; object-fit:cover; box-shadow:0 0 10px rgba(0,0,0,0.2);">
 
 
 
