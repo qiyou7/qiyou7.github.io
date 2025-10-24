@@ -8,8 +8,7 @@ position: 1
 ---
 
 <img src="/assets/img/1.jpg"
-     style="width:220px; height:220px; border-radius:50%; object-fit:cover; box-shadow:0 0 10px rgba(0,0,0,0.2);">
-
+     style="width:220px; height:220px; border-radius:50%; object-fit:contain; background:#fff; box-shadow:0 0 10px rgba(0,0,0,0.2);">
 
 
 
