@@ -7,33 +7,68 @@ tags: [Page]
 position: 1
 ---
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <div style="flex: 0 0 auto; text-align: center; margin-right: 30px;">
-    <img src="/assets/img/1.jpg" 
-         style="width:auto; height:auto; max-width:220px; border-radius: 50%; /* 圆形边框 */
-                box-shadow:0 0 10px rgba(0,0,0,0.2);">
-  </div>
+<div style="display: flex; gap: 30px; width: 100%;">
   <div style="flex: 1;">
-    ## 👨‍🎓 About Me  
+    <div style="width: 100%; max-width: 220px; height: 220px; margin: 0 auto; overflow: hidden; border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
+      <img src="/assets/img/1.jpg" 
+           style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    
+    <div style="margin-top: 20px; text-align: center;">
+      
+      <!-- Email -->
+      <p style="margin: 10px 0;">
+        <a href="mailto:qiyou@stu.xmu.edu.cn" style="text-decoration: none; color: #333;">
+          <i class="fas fa-envelope"></i> Email
+        </a>
+      </p>
+      
+      <!-- ResearchGate -->
+      <p style="margin: 10px 0;">
+        <a href="https://www.researchgate.net/profile/Qi-You-6" style="text-decoration: none; color: #333;" target="_blank">
+          <i class="fab fa-researchgate"></i> ResearchGate
+        </a>
+      </p>
+      
+      <!-- Google Scholar -->
+      <p style="margin: 10px 0;">
+        <a href="https://scholar.google.com/citations?user=meHBeXUAAAAJ&hl=en" style="text-decoration: none; color: #333;" target="_blank">
+          <i class="fab fa-google"></i> Google Scholar
+        </a>
+      </p>
+      
+      <!-- ORCID -->
+      <p style="margin: 10px 0;">
+        <a href="https://orcid.org/0009-0009-0425-5661" style="text-decoration: none; color: #333;" target="_blank">
+          <i class="fab fa-orcid"></i> ORCID
+        </a>
+      </p>
+    </div>
+  </div>
 
-    I am **Qi You**, a *Ph.D. candidate* at the **College of Chemistry and Chemical Engineering, Xiamen University**, under the supervision of [Prof. Jun Cheng](#) and [Prof. Fujie Tang](#). My research focuses on **computational spectroscopy** for complex electrochemical systems, particularly on *dynamic Nuclear Magnetic Resonance (NMR) spectra in electrolytes*. By integrating **first-principles** and **machine learning methods**, we aim to explore the intrinsic correlations between *molecular structures* and *spectral features*.  
+  <div style="flex: 4;">
+    
+    <h2>👨‍🎓 About Me</h2>
+    <p>I am <strong>Qi You</strong>, a <em>Ph.D. candidate</em> at the <strong>College of Chemistry and Chemical Engineering, Xiamen University</strong>, under the supervision of <a href="#">Prof. Jun Cheng</a> and <a href="#">Prof. Fujie Tang</a>. My research focuses on <strong>computational spectroscopy</strong> for complex electrochemical systems, particularly on <em>dynamic Nuclear Magnetic Resonance (NMR) spectra in electrolytes</em>. By integrating <strong>first-principles</strong> and <strong>machine learning methods</strong>, we aim to explore the intrinsic correlations between <em>molecular structures</em> and <em>spectral features</em>.</p>
+    <p>📧 Email: <a href="mailto:qiyou@stu.xmu.edu.cn">qiyou@stu.xmu.edu.cn</a></p>
 
-    📧 Email: [qiyou@stu.xmu.edu.cn](mailto:qiyou@stu.xmu.edu.cn)  
+    <hr style="margin: 20px 0;">
+
+
+    <h3>🔗 Related Links</h3>
+    <ul style="list-style: none; padding: 0;">
+      <li style="margin: 8px 0;">
+        <strong>Cheng Group</strong>: <a href="https://www.cheng-group.net/en">🌐 Visit Cheng Group</a>
+      </li>
+      <li style="margin: 8px 0;">
+        <strong>Tang Group</strong>: <a href="https://fujiepku.github.io/">🌐 Visit Tang Group</a>
+      </li>
+      <li style="margin: 8px 0;">
+        <strong>AI4EC Lab</strong>: <a href="https://ai4ec.ac.cn/">🌐 Visit AI4EC Lab</a>
+      </li>
+    </ul>
   </div>
 </div>
-
-
-
----
-
-### 🔗 Related Links
-
-- **Cheng Group**: [🌐 Visit Cheng Group](https://www.cheng-group.net/en)
-- **Tang Group**: [🌐 Visit Tang Group](https://fujiepku.github.io/)
-- **AI4EC Lab**: [🌐 Visit AI4EC Lab](https://ai4ec.ac.cn/)
-
----
-
 
 
 
