@@ -12,7 +12,7 @@ position: 1
   <div style="flex: 1;">
      <!-- photo -->
     <div style="width: 200px; height: 200px; margin: 0 auto; border-radius: 50%; overflow: hidden; box-shadow: 0 0 10px #ccc;">
-      <img src="/assets/img/1.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+      <img src="/assets/img/1.jpg" style="width: 70%; height: 70%; object-fit: cover;">
     </div>
 
     
