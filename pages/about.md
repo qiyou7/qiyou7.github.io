@@ -14,7 +14,7 @@ position: 1
 </div>
 
 
-<div style="flex: 1; min-width: 250px;">
+
 
 ## 👨‍🎓 About Me  
 
@@ -32,8 +32,6 @@ I am **Qi You**, a *Ph.D. candidate* at the **College of Chemistry and Chemical 
 
 ---
 
-</div>
 
-</div>
 
 
