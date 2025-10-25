@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/header/publication.jpg"
+feature-img: "assets/img/header/aboutme.jpg"
 tags: [Page]
 position: 1
 ---
