@@ -7,7 +7,7 @@ tags: [Page]
 position: 1
 ---
 
-<div style="display: flex; margin: 0 50px; gap: 60px;">
+<div style="display: flex; margin: 0 50px; gap: 80px;">
     <div style="flex: 1;">
      <div style="width:200px; height:200px; margin:0 auto; overflow:hidden; box-shadow:0 0 10px #ccc; border-radius:10px;">
       <img src="/assets/img/1.jpg"
@@ -50,7 +50,7 @@ position: 1
     </div>
   </div>
 
-  <div style="flex: 7;">
+  <div style="flex: 9;">
     
     <h2>👨‍🎓 About Me</h2>
     <p>I am <strong>Qi You</strong>, a <em>Ph.D. candidate</em> at the <strong>College of Chemistry and Chemical Engineering, Xiamen University</strong>, under the supervision of <a href="#">Prof. Jun Cheng</a> and <a href="#">Prof. Fujie Tang</a>. My research focuses on <strong>computational spectroscopy</strong> for complex electrochemical systems, particularly on <em>dynamic Nuclear Magnetic Resonance (NMR) spectra in electrolytes</em>. By integrating <strong>first-principles</strong> and <strong>machine learning methods</strong>, we aim to explore the intrinsic correlations between <em>molecular structures</em> and <em>spectral features</em>.</p>
