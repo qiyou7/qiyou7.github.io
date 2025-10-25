@@ -9,10 +9,14 @@ position: 1
 
 <div style="display: flex; margin: 0 50px; gap: 60px;">
     <div style="flex: 1;">
-    <div style="width:200px; height:200px; margin:0 auto; overflow:hidden; box-shadow:0 0 10px #ccc; border-radius:10px;">
-      <img src="/assets/img/1.jpg"
-           style="display:block; width:100%; height:100%; object-fit:cover; border:none;">
+      <img src="/assets/img/1.jpg" 
+       style="width: 200px; 
+              height: 200px; 
+              object-fit: cover; 
+              border: 3px solid #ddd; /* 边框 */
+              box-shadow: 0 0 10px #ccc; /* 阴影 */">
     </div>
+
 
 
     
