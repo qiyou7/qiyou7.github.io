@@ -2,7 +2,7 @@
 layout: page
 title: Conference
 permalink: /conference/
-feature-img: "assets/img/header/publication.jpg"
+feature-img: "assets/img/header/conference.jpg"
 tags: [Page]
 position: 3
 ---
