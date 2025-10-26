@@ -11,7 +11,7 @@ position: 1
     <div style="flex: 1;">
      <div style="width:200px; height:200px; margin:0 auto;overflow:hidden; box-shadow:0 0 5px #ccc; border-radius:10px;">
       <img src="/assets/img/1.jpg"
-           style="display:block; width:100%; height:100%; object-fit:cover; border:none;">
+           style="display:block; width:200px; height:200px; object-fit:cover; border:none;">
     </div>
 
     <div style="margin-top: 20px; text-align: left; padding-left: 40px;">
