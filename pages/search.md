@@ -5,7 +5,7 @@ permalink: /search/
 subtitle: "What are you looking for?"
 feature-img: "assets/img/pexels/search-map.jpeg"
 icon: "fa-search"
-hide: true
+hide: false
 excluded: true
-position: 5
+position: 4
 ---
