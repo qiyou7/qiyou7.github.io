@@ -12,7 +12,7 @@ position: 1
 
 <img src="/assets/img/1.jpg" 
      style="display: block; 
-            width: 150px; 
+            width: 200px; 
             margin: 0 auto; 
             border: none;">
 
