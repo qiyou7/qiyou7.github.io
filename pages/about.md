@@ -9,7 +9,7 @@ position: 1
 
 <div style="display: flex; margin: 0 50px; gap: 80px;">
     <div style="flex: 1;">
-     <div style="width:200px; height:200px; margin:0 auto;overflow:hidden; box-shadow:0 0 5px #ccc; border-radius:10px;">
+     <div style="width:200px; height:200px; margin:0 auto;overflow:hidden; box-shadow:0 0 5px #ccc; border-radius:0px;">
       <img src="/assets/img/1.jpg"
            style="display:block; width:200px; height:200px; object-fit:cover; border:none;">
     </div>
