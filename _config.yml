@@ -8,6 +8,13 @@ description: "Website of the Qi You at Xiamen Univerisity"     # used by search 
 avatar:  assets/img/electronic.png                      #  Empty for no avatar in navbar
 favicon: assets/img/electronic.ico                             # Icon displayed in the tab
 
+font:
+  heading: "Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"  
+  body: "Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"     
+  size:
+    heading: 20px 
+    body: 15px    
+    
 # Header and footer text
 header_text: "Welcome to Qi You's Homepage!"
 header_feature_image: assets/img/header/home.jpg
