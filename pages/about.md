@@ -10,8 +10,13 @@ position: 1
 <div style="display: flex; margin: 0 50px; gap: 80px;">
     <div style="flex: 1;">
 
-      <img src="/assets/img/1.jpg" style="display:block; width:100%; height:100%; object-fit:cover; border:none;">
-
+    <img src="/assets/img/1.jpg" 
+         style="display: block; 
+                width: 150px; 
+                height: 150px; 
+                object-fit: cover; 
+                margin: 0 auto; 
+                border: none;">
 
 
 
