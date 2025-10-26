@@ -14,35 +14,36 @@ position: 1
      style="display: block; 
             width: 200px; 
             margin: 0 auto; 
-            border: none;">
+            border: none;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"> 
 
 
     <div style="margin-top: 20px; text-align: left; padding-left: 40px;">
     
       <!-- Email -->
-      <p style="margin: 10px 0;">
-        <a href="mailto:qiyou@stu.xmu.edu.cn" style="text-decoration: none; color: #333; font-size: 14px;">
+      <p style="margin: 15px 0;">
+        <a href="mailto:qiyou@stu.xmu.edu.cn" style="text-decoration: none; color: #333; font-size: 15px;">
           <i class="fas fa-envelope"></i> Email
         </a>
       </p>
       
       <!-- ResearchGate -->
-      <p style="margin: 10px 0;">
-        <a href="https://www.researchgate.net/profile/Qi-You-6" style="text-decoration: none; color: #333; font-size: 14px;" target="_blank">
+      <p style="margin: 15px 0;">
+        <a href="https://www.researchgate.net/profile/Qi-You-6" style="text-decoration: none; color: #333; font-size: 15px;" target="_blank">
           <i class="fab fa-researchgate"></i> ResearchGate
         </a>
       </p>
       
       <!-- Google Scholar -->
-      <p style="margin: 10px 0;">
-        <a href="https://scholar.google.com/citations?user=meHBeXUAAAAJ&hl=en" style="text-decoration: none; color: #333; font-size: 14px;" target="_blank">
+      <p style="margin: 15px 0;">
+        <a href="https://scholar.google.com/citations?user=meHBeXUAAAAJ&hl=en" style="text-decoration: none; color: #333; font-size: 15px;" target="_blank">
           <i class="fab fa-google"></i> Google Scholar
         </a>
       </p>
       
       <!-- ORCID -->
-      <p style="margin: 10px 0;">
-        <a href="https://orcid.org/0009-0009-0425-5661" style="text-decoration: none; color: #333; font-size: 14px;" target="_blank">
+      <p style="margin: 15px 0;">
+        <a href="https://orcid.org/0009-0009-0425-5661" style="text-decoration: none; color: #333; font-size: 15px;" target="_blank">
           <i class="fab fa-orcid"></i> ORCID
         </a>
       </p>
