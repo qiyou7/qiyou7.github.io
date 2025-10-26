@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-permalink: /
+permalink: /about/
 feature-img: "assets/img/header/aboutme.jpg"
 tags: [Page]
 position: 1
