@@ -7,7 +7,7 @@ tags: [Page]
 position: 1
 profile:
   align: left
-  image: /assets/img/1.jpg
+  image: assets/img/1.jpg
   image_circular: True
 ---
 
