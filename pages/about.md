@@ -12,10 +12,10 @@ position: 1
 
 <img src="/assets/img/1.jpg" 
      style="display: block; 
-            width: 200px; 
+            width: 300px; 
             margin: 0 auto; 
             border: none;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"> 
+            box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);"> 
 
 
     <div style="margin-top: 20px; text-align: left; padding-left: 40px;">
