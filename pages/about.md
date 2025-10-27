@@ -51,21 +51,10 @@ position: 1
     <h2>⌨️ About Me</h2>
     <p>I am <strong>Qi You</strong>, a <em>Ph.D. candidate</em> at the <strong>College of Chemistry and Chemical Engineering, Xiamen University</strong>, under the supervision of <a href="#">Prof. Jun Cheng</a> and <a href="#">Prof. Fujie Tang</a>. My research focuses on <strong>computational spectroscopy</strong> for complex electrochemical systems, particularly on <em>dynamic Nuclear Magnetic Resonance (NMR) spectra in electrolytes</em>. By integrating <strong>first-principles</strong> and <strong>machine learning methods</strong>, we aim to explore the intrinsic correlations between <em>molecular structures</em> and <em>spectral features</em>.</p>
 
-    <hr style="margin: 20px 0;">
 
 
-    <h3>🔗 Related Links</h3>
-    <ul style="list-style: none; padding: 0;">
-      <li style="margin: 8px 0;">
-        <strong>Cheng Group</strong>: <a href="https://www.cheng-group.net/en">🌐 Visit Cheng Group</a>
-      </li>
-      <li style="margin: 8px 0;">
-        <strong>Tang Group</strong>: <a href="https://fujiepku.github.io/">🌐 Visit Tang Group</a>
-      </li>
-      <li style="margin: 8px 0;">
-        <strong>AI4EC Lab</strong>: <a href="https://ai4ec.ac.cn/">🌐 Visit AI4EC Lab</a>
-      </li>
-    </ul>
+
+
   </div>
 </div>
 
