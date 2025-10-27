@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Related Links
+subtitle: "Affiliated Groups & Collaborators"
 permalink: /related-links/
 feature-img: "assets/img/header/bk_conference.jpg"
 tags: [Page]
