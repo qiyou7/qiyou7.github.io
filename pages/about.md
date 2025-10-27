@@ -50,11 +50,22 @@ position: 1
   <div style="flex: 6;">
     
 
-    <p>I am <strong>Qi You</strong>, a <em>Ph.D. candidate</em> at the <strong>College of Chemistry and Chemical Engineering, Xiamen University</strong>, under the supervision of <a href="#">Prof. Jun Cheng</a> and <a href="#">Prof. Fujie Tang</a>. My research focuses on <strong>computational spectroscopy</strong> for complex electrochemical systems, particularly on <em>dynamic Nuclear Magnetic Resonance (NMR) spectra in electrolytes</em>. By integrating <strong>first-principles</strong> and <strong>machine learning methods</strong>, we aim to explore the intrinsic correlations between <em>molecular structures</em> and <em>spectral features</em>.</p>
-    <p>If you are interested, please feel free to reach out via the contact information in the right column.</p>
-    
-    <p style="font-size: 24px; font-weight: 600; color: #2c3e50; margin: 20px 0 10px 0;">Cheers!</p>
-
+    <div style="
+        background-color: #f9f9f9; 
+        padding: 25px; 
+        border-radius: 12px; 
+        box-shadow: 0 4px 12px rgba(0,0,0,0.1); 
+        margin-bottom: 30px;
+        border-left: 6px solid #364CC7;
+    ">
+        <p style="font-size: 18px; line-height: 1.6; color: #2c3e50;">
+            I am <strong>Qi You</strong>, a <em>Ph.D. candidate</em> at the <strong>College of Chemistry and Chemical Engineering, Xiamen University</strong>, under the supervision of <a href="#">Prof. Jun Cheng</a> and <a href="#">Prof. Fujie Tang</a>. My research focuses on <strong>computational spectroscopy</strong> for complex electrochemical systems, particularly on <em>dynamic Nuclear Magnetic Resonance (NMR) spectra in electrolytes</em>. By integrating <strong>first-principles</strong> and <strong>machine learning methods</strong>, we aim to explore the intrinsic correlations between <em>molecular structures</em> and <em>spectral features</em>.
+        </p>
+        <p style="font-size: 18px; line-height: 1.6; color: #2c3e50;">
+            If you are interested, please feel free to reach out via the contact information in the right column.
+        </p>
+        <p style="font-size: 20px; font-weight: 600; color: #2c3e50; margin: 20px 0 0 0;">Cheers!</p>
+    </div>
 
 
     <details style="margin: 25px 0; border: 1px solid #eee; border-radius: 8px; padding: 10px;">
