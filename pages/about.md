@@ -47,15 +47,37 @@ position: 1
     </div>
   </div>
 
-  <div style="flex: 5;">
+  <div style="flex: 6;">
     
 
     <p>I am <strong>Qi You</strong>, a <em>Ph.D. candidate</em> at the <strong>College of Chemistry and Chemical Engineering, Xiamen University</strong>, under the supervision of <a href="#">Prof. Jun Cheng</a> and <a href="#">Prof. Fujie Tang</a>. My research focuses on <strong>computational spectroscopy</strong> for complex electrochemical systems, particularly on <em>dynamic Nuclear Magnetic Resonance (NMR) spectra in electrolytes</em>. By integrating <strong>first-principles</strong> and <strong>machine learning methods</strong>, we aim to explore the intrinsic correlations between <em>molecular structures</em> and <em>spectral features</em>.</p>
-  <p>
-    If you are interested, please feel free to reach out via the contact information in the right column.
-  </p>
+    <p>If you are interested, please feel free to reach out via the contact information in the right column.</p>
+    <p>Cheers!</p>
 
 
+    <details style="margin: 20px 0; border: 1px solid #eee; border-radius: 8px; padding: 10px;">
+      <summary style="cursor: pointer; font-weight: bold; font-size: 16px; color: #333;">
+        <i class="fas fa-graduation-cap"></i> EDUCATION
+      </summary>
+      <div style="margin-top: 15px; padding-left: 20px; line-height: 1.8;">
+        <p><strong>Xiamen University (China)</strong><br>
+        Ph.D. in Chemistry, <em>Sep 2023 - Present</em></p>
+        <p><strong>Fuzhou University (China)</strong><br>
+        Bachelor of Chemistry, <em>Sep 2019 - Jun 2023</em></p>
+      </div>
+    </details>
+
+
+    <details style="margin: 20px 0; border: 1px solid #eee; border-radius: 8px; padding: 10px;">
+      <summary style="cursor: pointer; font-weight: bold; font-size: 16px; color: #333;">
+        <i class="fas fa-tools"></i> SKILLS
+      </summary>
+      <div style="margin-top: 15px; padding-left: 20px; line-height: 1.8;">
+        <p><strong>Coding:</strong> Python, Fortran</p>
+        <p><strong>Software:</strong> CP2K, VASP, Gaussian, Lammps, DeepMD-kit</p>
+        <p><strong>Languages:</strong> Mandarin (Native), English (IELTS, All four components at C1 Advanced level)</p>
+      </div>
+    </details>
 
 
   </div>
