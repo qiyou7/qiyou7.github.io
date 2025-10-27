@@ -57,7 +57,7 @@ position: 1
 
 
 
-    <details style="margin: 50px 0; border: 1px solid #eee; border-radius: 8px; padding: 10px;">
+    <details style="margin: 25px 0; border: 1px solid #eee; border-radius: 8px; padding: 10px;">
       <summary style="cursor: pointer; font-weight: bold; font-size: 14px; color: #333;">
         <i class="fas fa-graduation-cap"></i> EDUCATION
       </summary>
@@ -71,7 +71,7 @@ position: 1
     </details>
     
 
-    <details style="margin: 20px 0; border: 1px solid #eee; border-radius: 8px; padding: 10px;">
+    <details style="margin: 15px 0; border: 1px solid #eee; border-radius: 8px; padding: 10px;">
       <summary style="cursor: pointer; font-weight: bold; font-size: 14px; color: #333;">
         <i class="fas fa-tools"></i> SKILLS
       </summary>
