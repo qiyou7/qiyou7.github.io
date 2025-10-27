@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Conference
+subtitle: ""
 permalink: /conference/
 feature-img: "assets/img/header/conference.jpg"
 tags: [Page]
