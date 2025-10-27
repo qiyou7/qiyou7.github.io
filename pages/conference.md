@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Presentations & Awards
+title: Academic Activities
 subtitle: "Selected conferences, workshops, and recognitions."
 permalink: /conference/
 feature-img: "assets/img/header/conference.jpg"
