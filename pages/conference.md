@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Conference
-subtitle: ""
+title: Academic Activities
+subtitle: Selected conferences, presentations, and awards.
 permalink: /conference/
 feature-img: "assets/img/header/conference.jpg"
 tags: [Page]
