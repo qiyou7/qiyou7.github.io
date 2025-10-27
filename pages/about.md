@@ -56,27 +56,30 @@ position: 1
     <p style="font-size: 24px; font-weight: 600; color: #2c3e50; margin: 20px 0 10px 0;">Cheers!</p>
 
 
+
     <details style="margin: 50px 0; border: 1px solid #eee; border-radius: 8px; padding: 10px;">
-      <summary style="cursor: pointer; font-weight: bold; font-size: 16px; color: #333;">
+      <summary style="cursor: pointer; font-weight: bold; font-size: 14px; color: #333;">
         <i class="fas fa-graduation-cap"></i> EDUCATION
       </summary>
-      <div style="margin-top: 15px; padding-left: 20px; line-height: 1.8;">
+
+      <div style="margin-top: 15px; padding-left: 20px; line-height: 1.8; font-size: 14px;">
         <p><strong>Xiamen University (China)</strong><br>
         Ph.D. in Chemistry, <em>Sep 2023 - Present</em></p>
         <p><strong>Fuzhou University (China)</strong><br>
         Bachelor of Chemistry, <em>Sep 2019 - Jun 2023</em></p>
       </div>
     </details>
-
+    
 
     <details style="margin: 20px 0; border: 1px solid #eee; border-radius: 8px; padding: 10px;">
-      <summary style="cursor: pointer; font-weight: bold; font-size: 16px; color: #333;">
+      <summary style="cursor: pointer; font-weight: bold; font-size: 14px; color: #333;">
         <i class="fas fa-tools"></i> SKILLS
       </summary>
-      <div style="margin-top: 15px; padding-left: 20px; line-height: 1.8;">
+
+      <div style="margin-top: 15px; padding-left: 20px; line-height: 1.8; font-size: 14px;">
         <p><strong>Coding:</strong> Python, Fortran</p>
         <p><strong>Software:</strong> CP2K, VASP, Gaussian, Lammps, DeepMD-kit</p>
-        <p><strong>Languages:</strong> Mandarin (Native), English (IELTS, All four components at C1 Advanced level)</p>
+        <p><strong>Languages:</strong> Mandarin (Native), English (IELTS, all four components at C1 Advanced level)</p>
       </div>
     </details>
 
