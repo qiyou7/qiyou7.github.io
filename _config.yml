@@ -10,7 +10,8 @@ favicon: assets/img/electronic.ico                             # Icon displayed 
 
 # Header and footer text
 header_text: "Welcome to Qi You's Homepage!"
-header_feature_image_responsive: false
+header_feature_image: assets/img/header/home.jpg
+header_feature_image_responsive: true
 footer_text: 
   
 
