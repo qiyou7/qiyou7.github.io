@@ -10,6 +10,14 @@ position: 3
 
 <div style="background-color:#f9f9f9; padding:15px; border-radius:10px; margin-bottom:20px; border-left:6px solid #EC7FA9;">
   <div style="display:flex; justify-content:space-between; align-items:center;">
+    <h3 style="margin:0; font-size:20px;">The 23nd National Electrochemical Congress</h3>
+    <span style="font-size:18px; font-weight:600; color:#777;">Nov 2025</span>
+  </div>
+  <div style="color:#555; margin-top:4px; font-size:16px;">📍 Wuhan, China</div>
+  <div style="margin-top:4px; font-weight:500; font-size:16px;">📊 Oral Presentation — 🎊 <span style="color:#D04848;">Oral Award</span></div>
+
+<div style="background-color:#f9f9f9; padding:15px; border-radius:10px; margin-bottom:20px; border-left:6px solid #EC7FA9;">
+  <div style="display:flex; justify-content:space-between; align-items:center;">
     <h3 style="margin:0; font-size:20px;">The 76th Annual Meeting of the International Society of Electrochemistry (ISE)</h3>
     <span style="font-size:18px; font-weight:600; color:#777;">Sep 2025</span>
   </div>
