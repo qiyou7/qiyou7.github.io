@@ -14,7 +14,7 @@ position: 3
     <span style="font-size:18px; font-weight:600; color:#777;">Nov 2025</span>
   </div>
   <div style="color:#555; margin-top:4px; font-size:16px;">📍 Wuhan, China</div>
-  <div style="margin-top:4px; font-weight:500; font-size:16px;">🎤 Oral Presentation — 🎊 <span style="color:#DC3C22; font-weight: bold">Oral Award</span></div>
+  <div style="margin-top:4px; font-weight:500; font-size:16px;">🎤 Oral Presentation — 🎊 <span style="color:#DC3C22; font-weight: bold;">Oral Award</span></div>
 </div>
 
 <div style="background-color:#f9f9f9; padding:15px; border-radius:10px; margin-bottom:20px; border-left:6px solid #364CC7;">
@@ -23,7 +23,7 @@ position: 3
     <span style="font-size:18px; font-weight:600; color:#777;">Sep 2025</span>
   </div>
   <div style="color:#555; margin-top:4px; font-size:16px;">📍 Mainz, Germany</div>
-  <div style="margin-top:4px; font-weight:500; font-size:16px;">📊 Poster Presentation — 🎊 <span style="color:#DC3C22; font-weight: bold">Poster Award</span></div>
+  <div style="margin-top:4px; font-weight:500; font-size:16px;">📊 Poster Presentation — 🎊 <span style="color:#DC3C22; font-weight: bold;">Poster Award</span></div>
 </div>
 
 <div style="background-color:#f9f9f9; padding:15px; border-radius:10px; margin-bottom:20px; border-left:6px solid #364CC7;">
@@ -50,7 +50,7 @@ position: 3
     <span style="font-size:18px; font-weight:600; color:#777;">Nov 2024</span>
   </div>
   <div style="color:#555; margin-top:4px; font-size:16px;">📍 Hainan, China</div>
-  <div style="margin-top:4px; font-weight:500; font-size:16px;">📊 Poster Presentation — 🎊 <span style="color:#DC3C22; font-weight: bold">Poster Award</span></div>
+  <div style="margin-top:4px; font-weight:500; font-size:16px;">📊 Poster Presentation — 🎊 <span style="color:#DC3C22; font-weight: bold;">Poster Award</span></div>
 </div>
 
 <div style="background-color:#f9f9f9; padding:15px; border-radius:10px; margin-bottom:20px; border-left:6px solid #364CC7;">
