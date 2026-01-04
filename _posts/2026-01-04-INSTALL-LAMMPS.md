@@ -4,30 +4,45 @@ The workflow is divided into four main stages:
 
 1. Compile **LAMMPS (stable_23Jun2022_update4)** via CMake with QTB and SHOCK enabled.
 2. Create a compatible **Conda environment with TensorFlow GPU support**.
-3. Build **DeepMD-kit 2.2.9 (CUDA variant)** and link it as a LAMMPS plugin.
+3. Build **DeepMD-kit 2.2.9** and link it as a LAMMPS plugin.
 4. Configure environment variables correctly for runtime on HPC.
 
 The steps are as follows.
 
+
 <!-- References — Tutorials -->
-<div style="background-color:#f9f9f9; padding:14px; border-radius:10px; margin-bottom:18px; border-left:6px solid #DC3C22;">
-  <h3 style="margin:0 0 6px 0; font-size:18px; font-weight:600;">References — Tutorials</h3>
+<div style="background-color:#f9f9f9; padding:14px; border-radius:10px; margin-bottom:18px; border-left:6px solid #364CC7;">
+  <h3 style="margin:0 0 6px 0; font-size:16px; font-weight:600;">References — Tutorials</h3>
   <ol style="padding-left:18px; margin:0; font-size:13px;">
-    <li><a href="https://wiki.cheng-group.net/wiki/software_installation/deepmd-kit/deepmd-kit_installation_new/#deepmd-kit_1" style="font-size:13px;">
-    <li><a href="https://chiahsinchu.github.io/blog/2023/dp-install/" style="font-size:13px;">
-    <li><a href="https://docs.deepmodeling.com/projects/deepmd/en/master/install/install-lammps.html" style="font-size:13px;">
+    <li style="font-size:13px;">
+      <a href="https://wiki.cheng-group.net/wiki/software_installation/deepmd-kit/deepmd-kit_installation_new/#deepmd-kit_1" style="font-size:13px;">
+        https://wiki.cheng-group.net/wiki/software_installation/deepmd-kit/deepmd-kit_installation_new/#deepmd-kit_1
+      </a>
+    </li>
+    <li style="font-size:13px;">
+      <a href="https://chiahsinchu.github.io/blog/2023/dp-install/" style="font-size:13px;">
+        https://chiahsinchu.github.io/blog/2023/dp-install/
+      </a>
+    </li>
+    <li style="font-size:13px;">
+      <a href="https://docs.deepmodeling.com/projects/deepmd/en/master/install/install-lammps.html" style="font-size:13px;">
+        https://docs.deepmodeling.com/projects/deepmd/en/master/install/install-lammps.html
+      </a>
+    </li>
   </ol>
 </div>
 
+
 <!-- References — Related -->
-<div style="background-color:#f9f9f9; padding:14px; border-radius:10px; margin-bottom:18px; border-left:6px solid #DC3C22;">
-  <h3 style="margin:0 0 6px 0; font-size:18px; font-weight:600;">References — Related</h3>
+<div style="background-color:#f9f9f9; padding:14px; border-radius:10px; margin-bottom:18px; border-left:6px solid #364CC7;">
+  <h3 style="margin:0 0 6px 0; font-size:16px; font-weight:600;">References — Related</h3>
   <ol style="padding-left:18px; margin:0; font-size:13px;">
     <li><a href="https://docs.lammps.org/fix_msst.html" style="font-size:13px;">LAMMPS MSST Fix</a></li>
     <li><a href="https://docs.lammps.org/fix_qbmsst.html" style="font-size:13px;">LAMMPS QB-MSST Fix</a></li>
     <li><a href="https://github.com/sheyua/LAMMPS-QTB/tree/master" style="font-size:13px;">LAMMPS-QTB Repo</a></li>
   </ol>
 </div>
+
 
 ---
 
@@ -247,7 +262,7 @@ pair_coeff      * *   O  H
 ```
 ---
 
-## 9. Slurm script
+## 9. Slurm Script
 
 ```bash
 #!/bin/bash
