@@ -37,8 +37,9 @@ The steps are as follows.
 <div style="background-color:#f9f9f9; padding:14px; border-radius:10px; margin-bottom:18px; border-left:6px solid #364CC7;">
   <h3 style="margin:0 0 6px 0; font-size:16px; font-weight:600;">References — Related</h3>
   <ol style="padding-left:18px; margin:0; font-size:13px;">
-    <li><a href="https://docs.lammps.org/fix_msst.html" style="font-size:13px;">LAMMPS MSST Fix</a></li>
-    <li><a href="https://docs.lammps.org/fix_qbmsst.html" style="font-size:13px;">LAMMPS QB-MSST Fix</a></li>
+    <li><a href="https://docs.lammps.org/fix_msst.html" style="font-size:13px;">fix msst command</a></li>
+    <li><a href="https://docs.lammps.org/fix_qtb.html" style="font-size:13px;">fix qtb command</a></li>
+    <li><a href="https://docs.lammps.org/fix_qbmsst.html" style="font-size:13px;">fix qbmsst command</a></li>
     <li><a href="https://github.com/sheyua/LAMMPS-QTB/tree/master" style="font-size:13px;">LAMMPS-QTB Repo</a></li>
   </ol>
 </div>
