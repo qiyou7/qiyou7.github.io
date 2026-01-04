@@ -82,6 +82,9 @@ export PATH=$CONDA_PREFIX/bin:$LAMMPS_PREFIX/build:$PATH
 ```
 
 Edit `deactivate.sh`:
+```bash
+vi $CONDA_PREFIX/etc/conda/deactivate.d/deactivate.sh
+```
 
 ```bash
 module unload cmake/3.27.9-gcc-9.3.0-hnclq4h
@@ -105,11 +108,15 @@ conda deactivate
 ```
 ---
 
-## 3. Download and Extract LAMMPS
+## 3. Download LAMMPS and DeepMD-kit
 
 ```bash
 wget https://github.com/lammps/lammps/archive/refs/tags/stable_23Jun2022_update4.tar.gz
 tar -xvzf stable_23Jun2022_update4.tar.gz
+```
+
+```bash
+git clone --recursive https://github.com/deepmodeling/deepmd-kit.git deepmd-kit_2.2.9 -b v2.2.9
 ```
 
 ---
@@ -125,7 +132,6 @@ module load mpi/2021.5.0  # ⚠ Must match DeepMD MPI version!
 export CC=$(which gcc)
 export CXX=$(which g++)
 export FC=$(which gfortran)
-
 ```
 
 ---
