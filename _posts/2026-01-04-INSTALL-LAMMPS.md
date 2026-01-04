@@ -12,11 +12,11 @@ The steps are as follows.
 
 ## References — Tutorials
 
-1. (https://wiki.cheng-group.net/wiki/software_installation/deepmd-kit/deepmd-kit_installation_new/#deepmd-kit_1)
+1. [](https://wiki.cheng-group.net/wiki/software_installation/deepmd-kit/deepmd-kit_installation_new/#deepmd-kit_1)
 
-2. (https://chiahsinchu.github.io/blog/2023/dp-install/)
+2. [](https://chiahsinchu.github.io/blog/2023/dp-install/)
 
-3. (https://docs.deepmodeling.com/projects/deepmd/en/master/install/install-lammps.html)
+3. [](https://docs.deepmodeling.com/projects/deepmd/en/master/install/install-lammps.html)
 
 ---
 
