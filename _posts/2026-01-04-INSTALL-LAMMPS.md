@@ -13,9 +13,9 @@ The steps are as follows.
 <div style="background-color:#f9f9f9; padding:14px; border-radius:10px; margin-bottom:18px; border-left:6px solid #DC3C22;">
   <h3 style="margin:0 0 6px 0; font-size:18px; font-weight:600;">References — Tutorials</h3>
   <ol style="padding-left:18px; margin:0; font-size:13px;">
-    <li><a href="https://wiki.cheng-group.net/wiki/software_installation/deepmd-kit/deepmd-kit_installation_new/#deepmd-kit_1" style="font-size:13px;">Cheng Group Wiki</a></li>
-    <li><a href="https://chiahsinchu.github.io/blog/2023/dp-install/" style="font-size:13px;">DP Install Blog</a></li>
-    <li><a href="https://docs.deepmodeling.com/projects/deepmd/en/master/install/install-lammps.html" style="font-size:13px;">DeepMD + LAMMPS Docs</a></li>
+    <li><a href="https://wiki.cheng-group.net/wiki/software_installation/deepmd-kit/deepmd-kit_installation_new/#deepmd-kit_1" style="font-size:13px;">
+    <li><a href="https://chiahsinchu.github.io/blog/2023/dp-install/" style="font-size:13px;">
+    <li><a href="https://docs.deepmodeling.com/projects/deepmd/en/master/install/install-lammps.html" style="font-size:13px;">
   </ol>
 </div>
 
