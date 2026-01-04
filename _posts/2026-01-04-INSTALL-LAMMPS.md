@@ -10,18 +10,23 @@ The workflow is divided into four main stages:
 The steps are as follows.
 
 
-References:
-1. [https://wiki.cheng-group.net/wiki/software_installation/deepmd-kit/deepmd-kit_installation_new/#deepmd-kit_1]
+## References — Tutorials
 
-2. [https://chiahsinchu.github.io/blog/2023/dp-install/]
+1. (https://wiki.cheng-group.net/wiki/software_installation/deepmd-kit/deepmd-kit_installation_new/#deepmd-kit_1)
 
-3. [https://docs.lammps.org/fix_msst.html]
+2. (https://chiahsinchu.github.io/blog/2023/dp-install/)
 
-4. [https://docs.lammps.org/fix_qbmsst.html]
+3. (https://docs.deepmodeling.com/projects/deepmd/en/master/install/install-lammps.html)
 
-5. [https://github.com/sheyua/LAMMPS-QTB/tree/master]
+---
 
-6. [https://docs.deepmodeling.com/projects/deepmd/en/master/install/install-lammps.html]
+## References — Related
+
+1. [LAMMPS MSST fix documentation](https://docs.lammps.org/fix_msst.html)
+
+2. [LAMMPS QB-MSST fix documentation](https://docs.lammps.org/fix_qbmsst.html)
+
+3. [LAMMPS-QTB GitHub repository](https://github.com/sheyua/LAMMPS-QTB/tree/master)
 
 ---
 
