@@ -10,7 +10,7 @@ The workflow is divided into four main stages:
 The steps are as follows.
 
 
-## References — Tutorials
+References — Tutorials
 
 1. ( <https://wiki.cheng-group.net/wiki/software_installation/deepmd-kit/deepmd-kit_installation_new/#deepmd-kit_1> )
 
@@ -20,7 +20,7 @@ The steps are as follows.
 
 ---
 
-## References — Related
+References — Related
 
 1. [LAMMPS MSST fix documentation](https://docs.lammps.org/fix_msst.html)
 
