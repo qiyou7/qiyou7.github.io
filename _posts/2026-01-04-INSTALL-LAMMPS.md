@@ -9,24 +9,25 @@ The workflow is divided into four main stages:
 
 The steps are as follows.
 
+<!-- References — Tutorials -->
+<div style="background-color:#f9f9f9; padding:14px; border-radius:10px; margin-bottom:18px; border-left:6px solid #DC3C22;">
+  <h3 style="margin:0 0 6px 0; font-size:18px; font-weight:600;">References — Tutorials</h3>
+  <ol style="padding-left:18px; margin:0; font-size:13px;">
+    <li><a href="https://wiki.cheng-group.net/wiki/software_installation/deepmd-kit/deepmd-kit_installation_new/#deepmd-kit_1" style="font-size:13px;">Cheng Group Wiki</a></li>
+    <li><a href="https://chiahsinchu.github.io/blog/2023/dp-install/" style="font-size:13px;">DP Install Blog</a></li>
+    <li><a href="https://docs.deepmodeling.com/projects/deepmd/en/master/install/install-lammps.html" style="font-size:13px;">DeepMD + LAMMPS Docs</a></li>
+  </ol>
+</div>
 
-References — Tutorials
-
-1. <https://wiki.cheng-group.net/wiki/software_installation/deepmd-kit/deepmd-kit_installation_new/#deepmd-kit_1>
-
-2. <https://chiahsinchu.github.io/blog/2023/dp-install/>
-
-3. <https://docs.deepmodeling.com/projects/deepmd/en/master/install/install-lammps.html>
-
----
-
-References — Related
-
-1. [LAMMPS MSST fix documentation](https://docs.lammps.org/fix_msst.html)
-
-2. [LAMMPS QB-MSST fix documentation](https://docs.lammps.org/fix_qbmsst.html)
-
-3. [LAMMPS-QTB GitHub repository](https://github.com/sheyua/LAMMPS-QTB/tree/master)
+<!-- References — Related -->
+<div style="background-color:#f9f9f9; padding:14px; border-radius:10px; margin-bottom:18px; border-left:6px solid #DC3C22;">
+  <h3 style="margin:0 0 6px 0; font-size:18px; font-weight:600;">References — Related</h3>
+  <ol style="padding-left:18px; margin:0; font-size:13px;">
+    <li><a href="https://docs.lammps.org/fix_msst.html" style="font-size:13px;">LAMMPS MSST Fix</a></li>
+    <li><a href="https://docs.lammps.org/fix_qbmsst.html" style="font-size:13px;">LAMMPS QB-MSST Fix</a></li>
+    <li><a href="https://github.com/sheyua/LAMMPS-QTB/tree/master" style="font-size:13px;">LAMMPS-QTB Repo</a></li>
+  </ol>
+</div>
 
 ---
 
