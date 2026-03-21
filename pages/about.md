@@ -74,6 +74,8 @@ position: 1
       </summary>
 
       <div style="margin-top: 15px; padding-left: 20px; line-height: 1.8; font-size: 14px;">
+        <p><strong>University of Cambridge</strong><br>
+        Visiting Ph.D. student in Chemistry, <em>March 2026 - Present</em></p>
         <p><strong>Xiamen University (China)</strong><br>
         Ph.D. in Chemistry, <em>Sep 2023 - Present</em></p>
         <p><strong>Fuzhou University (China)</strong><br>
