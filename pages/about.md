@@ -75,11 +75,11 @@ position: 1
 
       <div style="margin-top: 15px; padding-left: 20px; line-height: 1.8; font-size: 14px;">
         <p><strong>University of Cambridge</strong><br>
-        Visiting Ph.D. student in Chemistry, <em>March 2026 - Present</em></p>
+        Visiting Ph.D. Student (Yusuf Hamied Department of Chemistry), <em>March 2026 - Present</em></p>
         <p><strong>Xiamen University (China)</strong><br>
-        Ph.D. in Chemistry, <em>Sep 2023 - Present</em></p>
+        Ph.D. candidate (College of Chemistry and Chemical Engineering), <em>Sep 2023 - Present</em></p>
         <p><strong>Fuzhou University (China)</strong><br>
-        Bachelor of Chemistry, <em>Sep 2019 - Jun 2023</em></p>
+        B.Sc. (College of Chemistry), <em>Sep 2019 - Jun 2023</em></p>
       </div>
     </details>
     
