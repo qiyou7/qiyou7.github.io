@@ -37,6 +37,13 @@ position: 1
           <i class="fab fa-google"></i> Google Scholar
         </a>
       </p>
+
+      <!-- LinkedIn -->
+      <p style="margin: 10px 0;">
+        <a href="https://www.linkedin.com/in/qi-you-b3211a3a7" style="text-decoration: none; color: #333; font-size: 15px;" target="_blank">
+          <i class="fab fa-linkedin"></i> LinkedIn
+        </a>
+      </p>
       
       <!-- ORCID -->
       <p style="margin: 10px 0;">
