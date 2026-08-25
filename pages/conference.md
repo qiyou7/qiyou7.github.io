@@ -8,6 +8,15 @@ tags: [Page]
 position: 3
 ---
 
+<div style="background-color:#f9f9f9; padding:15px; border-radius:10px; margin-bottom:20px; border-left:6px solid #364CC7;">
+  <div style="display:flex; justify-content:space-between; align-items:center;">
+    <h3 style="margin:0; font-size:20px;">13th International Conference on Advanced Vibrational Spectroscopy & 5th International Conference on Enhanced Spectroscopy</h3>
+    <span style="font-size:18px; font-weight:600; color:#777;">Dec 2025</span>
+  </div>
+  <div style="color:#555; margin-top:4px; font-size:16px;">📍 Xiamen, China</div>
+  <div style="margin-top:4px; font-weight:500; font-size:16px;">📊 Poster Presentation</div>
+</div>
+
 <div style="background-color:#f9f9f9; padding:15px; border-radius:10px; margin-bottom:20px; border-left:6px solid #DC3C22;">
   <div style="display:flex; justify-content:space-between; align-items:center;">
     <h3 style="margin:0; font-size:20px;">The 23rd National Electrochemical Congress</h3>
