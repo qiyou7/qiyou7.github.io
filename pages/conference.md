@@ -11,10 +11,10 @@ position: 3
 <div style="background-color:#f9f9f9; padding:15px; border-radius:10px; margin-bottom:20px; border-left:6px solid #364CC7;">
   <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:24px;">
     <h3 style="margin:0; font-size:20px; line-height:1.35;">
-      13th International Conference on Advanced Vibrational Spectroscopy (ICAVS)
+      The 13th International Conference on Advanced Vibrational Spectroscopy (ICAVS)
       <br>
       <span style="font-size:17px; font-weight:500; color:#555;">
-        & 5th International Conference on Enhanced Spectroscopy (ICES)
+        & The 5th International Conference on Enhanced Spectroscopy (ICES)
       </span>
     </h3>
     <span style="font-size:18px; font-weight:600; color:#777; white-space:nowrap;">Dec 2025</span>
