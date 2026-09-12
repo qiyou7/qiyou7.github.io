@@ -11,6 +11,18 @@ position: 3
 <div style="background-color:#f9f9f9; padding:15px; border-radius:10px; margin-bottom:20px; border-left:6px solid #364CC7;">
   <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:24px;">
     <h3 style="margin:0; font-size:20px; line-height:1.35;">
+      Faraday Institution Conference 2026: Next Frontiers in Energy Storage
+    </h3>
+    <span style="font-size:18px; font-weight:600; color:#777; white-space:nowrap;">Sep 2026</span>
+  </div>
+
+  <div style="color:#555; margin-top:8px; font-size:16px;">📍 Nottingham, UK</div>
+  <div style="margin-top:4px; font-weight:500; font-size:16px;">📊 Poster Presentation</div>
+</div>
+
+<div style="background-color:#f9f9f9; padding:15px; border-radius:10px; margin-bottom:20px; border-left:6px solid #364CC7;">
+  <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:24px;">
+    <h3 style="margin:0; font-size:20px; line-height:1.35;">
       The 13th International Conference on Advanced Vibrational Spectroscopy (ICAVS)
       <br>
       <span style="font-size:17px; font-weight:500; color:#555;">
